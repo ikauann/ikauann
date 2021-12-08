@@ -9,7 +9,7 @@
 
 
 
-## • *Technologies that study :*
+### • *Technologies that study :*
 
 <div style='display: inline_block'>
 
